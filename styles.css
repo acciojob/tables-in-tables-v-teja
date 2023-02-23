@@ -1,2 +1,11 @@
-
+.last{
+	background-color:black;
+	color:white;
+}
+td, tr {
+	border: 1px solid black;
+}
+table{
+	border:1px solid black;
+}
 /* Your CSS Code here. */
